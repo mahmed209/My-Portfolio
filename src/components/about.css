@@ -1,0 +1,26 @@
+::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;  
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 20px;  
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #075985; 
+    border-radius: 10px;  
+    border: 2px solid #075985;   
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #BFDBFE;  
+}
+.header-section-3 {
+    background-image: url('/src/assets/img/header-3.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
